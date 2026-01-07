@@ -1,6 +1,6 @@
 # Digital Garden (System Root)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a268d2cb-cd32-4ede-873c-a466d6cdfb05/deploy-status)](https://app.netlify.com/projects/zetaspace/deploys)
+![Build Status](https://img.shields.io/github/actions/workflow/status/cjalanano-dev/zeta-space/deploy.yml?label=Build&style=flat-square)
 ![Quartz](https://img.shields.io/badge/Built%20With-Quartz%20v4-FF2E88?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Online-success?style=flat-square)
 
