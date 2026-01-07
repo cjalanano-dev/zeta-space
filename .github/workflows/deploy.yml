@@ -3,7 +3,7 @@ name: Deploy Quartz to GitHub Pages
 on:
   push:
     branches:
-      - main  # We set your branch to 'main' earlier
+      - main 
 
 permissions:
   contents: read
