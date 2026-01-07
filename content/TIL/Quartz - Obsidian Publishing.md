@@ -1,0 +1,1 @@
+**Today I Learned** that I can publish obsidian markdown notes easily using a platform called Quartz.
