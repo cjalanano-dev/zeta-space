@@ -1,1 +1,3 @@
 **Today I Learned** that I can publish obsidian markdown notes easily using a platform called Quartz.
+
+I was finding a way on how to create my own space on the internet when I came across a GitHub repository called Quartz. I tried it out and I followed the instructions, and explored some things. At the end, I finally made my own space, my own archive of thoughts, journals, and showcase the technical parts of my projects.
