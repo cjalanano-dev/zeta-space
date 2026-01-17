@@ -1,4 +1,6 @@
-**Project Overview** VIBE is an immersive, 3D web application designed to transform audio input into a dynamic and mesmerizing visual experience in real-time. Built on the modern React ecosystem, it bridges the gap between signal processing and 3D graphics, creating a synchronized audiovisual environment where geometry and lighting respond instantly to sound frequencies.
+**Project Overview**
+
+VIBE is an immersive, 3D web application designed to transform audio input into a dynamic and mesmerizing visual experience in real-time. Built on the modern React ecosystem, it bridges the gap between signal processing and 3D graphics, creating a synchronized audiovisual environment where geometry and lighting respond instantly to sound frequencies.
 
 **Technical Architecture**
 

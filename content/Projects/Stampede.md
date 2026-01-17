@@ -1,4 +1,6 @@
-**Project Overview** Stampede is a console-based chess engine and user interface developed in C#. It is designed to run in a terminal environment, utilizing efficient bitboard representations for game state management and a custom artificial intelligence implementation for move generation. The project demonstrates the application of complex search algorithms, heuristic evaluation, and rich text-based UI rendering without reliance on graphical user interface (GUI) libraries.
+**Project Overview** 
+
+Stampede is a console-based chess engine and user interface developed in C#. It is designed to run in a terminal environment, utilizing efficient bitboard representations for game state management and a custom artificial intelligence implementation for move generation. The project demonstrates the application of complex search algorithms, heuristic evaluation, and rich text-based UI rendering without reliance on graphical user interface (GUI) libraries.
 
 **Technical Architecture**
 
