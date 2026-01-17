@@ -8,7 +8,7 @@
 
 This repository hosts the source code for my personal **Digital Archive**, a public-facing knowledge base and engineering portfolio. Unlike a traditional linear blog, this site utilizes bi-directional linking to create a network of interconnected thoughts and documentation.
 
-**[Live Deployment](https://zetaspace.netlify.app)**
+**[Live Deployment](https://cjalanano-dev.github.io/zeta-space/)**
 
 ---
 
@@ -27,7 +27,7 @@ This project implements a **GitOps** workflow to publish local Obsidian notes to
 * **Language:** TypeScript / TSX
 * **Content Management:** Obsidian (Local Filesystem)
 * **Styling:** SCSS / Custom Components
-* **Hosting:** Netlify (Edge)
+* **Hosting:** GitHub Pages
 
 ## Content Structure
 
