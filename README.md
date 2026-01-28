@@ -1,4 +1,4 @@
-# Digital Garden (System Root)
+# Citadel
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/cjalanano-dev/zeta-space/deploy.yml?label=Build&style=flat-square)
 ![Quartz](https://img.shields.io/badge/Built%20With-Quartz%20v4-FF2E88?style=flat-square)
