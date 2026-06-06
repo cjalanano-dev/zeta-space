@@ -1,5 +1,5 @@
 ---
-title: Welcome to Zeta's Citadel
+title: Welcome to CJ's Blog
 ---
 > "Waste no more time arguing about what a good man should be. Be one." — Marcus Aurelius
 ## The Interface 
