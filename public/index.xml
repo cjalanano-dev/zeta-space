@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Zeta&#039;s Citadel</title>
+      <title>CJ&#039;s Blog</title>
       <link>https://cjalanano-dev.github.io/zetaspace</link>
-      <description>Last 10 notes on Zeta&#039;s Citadel</description>
+      <description>Last 10 notes on CJ&#039;s Blog</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>2026-06-06</title>
+    <link>https://cjalanano-dev.github.io/zetaspace/Journal/2026-06-06</link>
+    <guid>https://cjalanano-dev.github.io/zetaspace/Journal/2026-06-06</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 06 Jun 2026 03:42:26 GMT</pubDate>
+  </item><item>
+    <title>Welcome to CJ&#039;s Blog</title>
+    <link>https://cjalanano-dev.github.io/zetaspace/</link>
+    <guid>https://cjalanano-dev.github.io/zetaspace/</guid>
+    <description><![CDATA[  “Waste no more time arguing about what a good man should be. Be one.” — Marcus Aurelius The Interface Welcome. This is not a blog. ]]></description>
+    <pubDate>Sat, 06 Jun 2026 03:39:44 GMT</pubDate>
+  </item><item>
     <title>GitHub Time Machine For Contributions</title>
     <link>https://cjalanano-dev.github.io/zetaspace/TIL/GitHub-Time-Machine-For-Contributions</link>
     <guid>https://cjalanano-dev.github.io/zetaspace/TIL/GitHub-Time-Machine-For-Contributions</guid>
@@ -36,34 +48,22 @@
     <description><![CDATA[ Today I Learned that I can publish obsidian markdown notes easily using a platform called Quartz. ]]></description>
     <pubDate>Thu, 08 Jan 2026 09:22:05 GMT</pubDate>
   </item><item>
-    <title>2026-01-07</title>
-    <link>https://cjalanano-dev.github.io/zetaspace/Journal/2026-01-07</link>
-    <guid>https://cjalanano-dev.github.io/zetaspace/Journal/2026-01-07</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 07 Jan 2026 06:37:53 GMT</pubDate>
-  </item><item>
     <title>Journal</title>
     <link>https://cjalanano-dev.github.io/zetaspace/Journal/</link>
     <guid>https://cjalanano-dev.github.io/zetaspace/Journal/</guid>
-    <description><![CDATA[ This is where I apply logic to life. ]]></description>
+    <description><![CDATA[ Here, I document my academic journey, experiments in programming, and capturing life in general. ]]></description>
     <pubDate>Wed, 07 Jan 2026 06:37:53 GMT</pubDate>
   </item><item>
     <title>Projects</title>
     <link>https://cjalanano-dev.github.io/zetaspace/Projects/</link>
     <guid>https://cjalanano-dev.github.io/zetaspace/Projects/</guid>
-    <description><![CDATA[ Active Deployments This is the portfolio of my engineering work. ]]></description>
+    <description><![CDATA[ Projects This is the portfolio of my software engineering work. ]]></description>
     <pubDate>Wed, 07 Jan 2026 06:37:53 GMT</pubDate>
   </item><item>
     <title>TIL</title>
     <link>https://cjalanano-dev.github.io/zetaspace/TIL/</link>
     <guid>https://cjalanano-dev.github.io/zetaspace/TIL/</guid>
     <description><![CDATA[ Knowledge Base Atomic notes and code snippets collected during my daily work. ]]></description>
-    <pubDate>Wed, 07 Jan 2026 06:37:53 GMT</pubDate>
-  </item><item>
-    <title>Welcome to CJ&#039;s Blog</title>
-    <link>https://cjalanano-dev.github.io/zetaspace/</link>
-    <guid>https://cjalanano-dev.github.io/zetaspace/</guid>
-    <description><![CDATA[  “Waste no more time arguing about what a good man should be. Be one.” — Marcus Aurelius The Interface Welcome. This is not a blog. ]]></description>
     <pubDate>Wed, 07 Jan 2026 06:37:53 GMT</pubDate>
   </item>
     </channel>
