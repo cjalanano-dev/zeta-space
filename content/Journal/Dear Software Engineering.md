@@ -1,0 +1,33 @@
+-
+-
+-
+
+I never expected you to become such a huge part of my life. Looking back, it's funny how everything started with a simple conversation about my mom. She told me that she had taken Computer Science in college, but never pursued the career that came with it. As I grew older, I found myself wondering what her life could have looked like if she had continued down that path. Somewhere along the way, I realized I wanted to continue the story she had started, not because anyone expected me to, but because I genuinely wanted to see where that road could lead.
+
+Then 2020 happened. While the world was shutting down because of the pandemic, I was spending my days playing Minecraft with a few friends online. I became fascinated by mods like RLCraft and wondered how people could completely transform a game. At first, my goals were simple. I wanted to make myself fly in a survival world. I wanted to create something fun. After searching online, I discovered that Minecraft mods were made with Java. I had never programmed before, but I was curious enough to give it a try.
+
+My first impression was that programming was incredibly difficult. There were strange symbols, confusing syntax, and concepts I couldn't wrap my head around. But instead of pushing me away, it somehow pulled me in. I spent hours watching videos and reading tutorials, trying to understand what all of it meant. That's when I found Bro Code. His tutorials made programming feel approachable, and for the first time, I felt like I could actually learn this.
+
+Using our old family computer which is this machine with only 2GB of RAM, no dedicated graphics card, and an Intel Core 2 Duo processor, I installed Eclipse IDE and wrote my very first program: **Hello, World.** It wasn't much, but seeing those two words appear on the console window felt like magic. From there, I built whatever I could. A calculator, a clock, and even a text-based life simulator. Every small project taught me something new, and before I knew it, programming had become the thing I looked forward to every day.
+
+By 2021, when I was only fourteen years old, I had already learned about loops, object-oriented programming, and many of Java's intermediate concepts. Ironically, I still hadn't built the Minecraft mod that started everything. Online classes demanded most of my attention, and I had to focus on passing Grades 8 and 9. Even so, programming had already become more than just a hobby. It was becoming something I genuinely loved.
+
+In early 2022, my progress came to an unexpected stop. The power cable connected to our AVR caught a small fire, leaving our family computer unusable. Without it, I was forced to continue learning on nothing but my phone. Eventually, life got in the way, and I drifted away from programming altogether. When I finally managed to turn the computer back on in December of that year, I opened my IDE only to realize that I had forgotten most of what I had spent years learning. It was frustrating, but it also taught me that passion isn't about never falling behind. It's about always finding your way back.
+
+That opportunity came in 2023. As I searched for a senior high school, I already knew where I wanted to study. STI College was one of the few schools that actually offered programming in the ICT strand, and I knew it was where I belonged. My parents bought me an Acer Aspire A315 so I could pursue that dream, and even today, it's still the laptop I use for every project I build.
+
+Those two years in senior high school confirmed that I had made the right choice. Java, web development, Android development, C#, SQL, ASP.NET, and JavaScript weren't just subjects to pass, they were skills I genuinely wanted to master. Because I already had experience with Java before entering senior high, I was able to excel in my early programming classes. As the curriculum introduced new technologies, I continued sharpening my skills and pushing myself further. I even earned a class-high grade of 97 in Computer Programming 4. More importantly, I found myself surrounded by people who shared the same passion. During that time, I became class president, served as our organization's representative and treasurer, competed in programming competitions, and built friendships with people who inspired me to keep improving.
+
+After graduating from senior high school, I applied to only one university. It wasn't because I lacked options, it was because I already knew exactly where I wanted to be. The university offered the degree I had been working toward for years: Bachelor of Science in Computer Science. I got accepted, and stepping into college felt like beginning the chapter I had been preparing for since I first searched "How to make Minecraft mods."
+
+My first year has already given me experiences I never imagined having so early. I became class president once again and was entrusted to become the Backend Team Lead of OCTA–SDA, our college's software development organization. I represented my university in a national programming challenge as the only first-year student to qualify through the tryouts. I competed in Code Wars, placing 11th out of 23 participants, earned second place in a local programming competition, reached the finals in two hackathons while winning Best Presentation in one of them, joined a game jam alongside second-year students, and even became a speaker in a portfolio seminar organized by OCTA–SDA, the only freshman standing in front of an audience to share what I had learned.
+
+When I look back at everything, it's incredible to think that all of this began because a curious kid wanted to make Minecraft mods on an old computer that could barely run an IDE. The dream has changed, but the curiosity hasn't. Every bug I solve, every project I finish, every technology I learn, and every challenge I overcome reminds me why I fell in love with this field in the first place.
+
+I know this journey is still in its earliest chapters. There will be failures, impossible deadlines, difficult interviews, technologies that force me to start over, and moments where I question whether I'm good enough. But you've already taught me that progress isn't measured by how quickly I succeed. It's measured by how willing I am to keep learning.
+
+Thank you for giving me a purpose that I never expected to find. Thank you for turning a simple curiosity into a lifelong passion. Thank you for allowing me to continue the story my mom began years before I ever wrote my first line of code. Most of all, thank you for making me excited about the future. I don't know exactly where this path will lead me, but I know I'll keep walking it, one line of code at a time.
+
+**Yours always,**
+
+**Carlos**
